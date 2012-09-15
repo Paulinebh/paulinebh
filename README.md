@@ -11,4 +11,4 @@ Attention, un seul fichier pour le CV et un seul pour le Portfolio, sinon seul l
 
 A part ça on peut gérer rapidement l'URL d'action du formulaire dans le fichier `index.php`.
 
-Ce petit site utilise quelques CSS de darklg/CSSNormalize.
+Ce petit site utilise quelques CSS de darklg/CSSNormalize@master.
