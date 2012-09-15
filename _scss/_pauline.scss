@@ -1,0 +1,106 @@
+body {
+    background: $white;
+    font-family: $arial;
+    font-size: 1em;
+}
+
+#main {
+    padding-top: 7%;
+    width: 840px;
+    margin: auto;
+}
+
+hgroup {
+    h1 {
+        font-size: 2em;
+        color: $black;
+        text-align: center;
+        span {
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+        .slash-left {
+            color: $black;
+            padding-left: 10px;
+        }
+        .slash-right {
+            color: $orange;
+            padding-right: 10px;
+        }
+    }
+    h2 {
+        color: $black;
+        font-size: 1.2em;
+        margin: 10px 0 0 $margin-left;
+        span {
+            color: $orange;
+            padding-right: 10px;
+        }
+    }
+}
+
+#concepts {
+    margin: 10px 0 0 $margin-left;
+    color: $gray;
+    li {
+        span {
+            padding-right: 10px;
+        }
+    }
+}
+
+#open {
+    margin: 0 0 0 $margin-left;
+    font-size: 1.15em;
+    font-weight: bold;
+    color: $orange;
+}
+
+#links {
+    margin: 30px $margin-left 0;
+    color: $orange;
+    width: 570px;
+    a {
+        color: $orange;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    li {
+        float: left;
+        width: 190px;
+        ul {
+            color: $black;
+            margin-left: 5px;
+            font-size: 0.85em;
+            li {
+                display: block;
+                clear: both;
+                a {
+                    color: $black;
+                }
+            }
+        }
+    }
+}
+
+small {
+    font-size: 0.85em;
+}
+
+#info, #contact {
+    overflow: hidden;
+    margin-top: 25px;
+}
+
+#contact {
+    display: none;
+    form {
+        width: 540px;
+        margin: 0 auto;
+    }
+}
+
+.cssn_messages {
+    text-align: center;
+}
