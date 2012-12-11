@@ -65,7 +65,7 @@ $portfolioSize = round(filesize(__DIR__ . $portfolioPath) / 1024 / 1024, 2) . 'M
             </ul>
 
             <div id="info">
-                <p id="open">&gt; <strong>Actuellement en recherche d'emploi !</strong></p>
+                <p id="open">&gt; <strong>Actuellement en recherche d'emploi.</strong></p>
 
                 <ul id="links">
                     <li class="contact"><a href="#contact">Me contacter</a></li>
