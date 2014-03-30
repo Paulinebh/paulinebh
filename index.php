@@ -43,7 +43,7 @@ $portfolioSize = round(filesize(__DIR__ . $portfolioPath) / 1024 / 1024, 2) . 'M
 
 <?php if (isset($_GET['success'])): ?>
 <p class="cssn_messages">
-    <a class="success" href="#">Merci pour votre message ! Je vous répondrai dans les meilleurs délais.</a>
+    <a class="success" href="#">Merci pour votre message. Je vous répondrai dans les meilleurs délais.</a>
 </p>
 <?php endif; ?>
             
@@ -65,7 +65,7 @@ $portfolioSize = round(filesize(__DIR__ . $portfolioPath) / 1024 / 1024, 2) . 'M
             </ul>
 
             <div id="info">
-                <p id="open">&gt; <strong>Actuellement en recherche d'emploi.</strong></p>
+                <p id="open">&gt; <strong>En poste. Actuellement en recherche de poste.</strong></p>
 
                 <ul id="links">
                     <li class="contact"><a href="#contact">Me contacter</a></li>
