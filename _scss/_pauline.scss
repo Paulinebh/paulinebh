@@ -24,7 +24,7 @@ hgroup {
             padding-left: 10px;
         }
         .slash-right {
-            color: $orange;
+            color: $main-color;
             padding-right: 10px;
         }
     }
@@ -33,7 +33,7 @@ hgroup {
         font-size: 1.2em;
         margin: 10px 0 0 $margin-left;
         span {
-            color: $orange;
+            color: $main-color;
             padding-right: 10px;
         }
     }
@@ -53,15 +53,15 @@ hgroup {
     margin: 0 0 0 $margin-left;
     font-size: 1.15em;
     font-weight: bold;
-    color: $orange;
+    color: $main-color;
 }
 
 #links {
     margin: 30px $margin-left 0;
-    color: $orange;
+    color: $main-color;
     width: 570px;
     a {
-        color: $orange;
+        color: $main-color;
     }
     a:hover {
         text-decoration: underline;
