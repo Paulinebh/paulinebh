@@ -51,7 +51,7 @@ $portfolioSize = round(filesize(__DIR__ . $portfolioPath) / 1024 / 1024, 2) . 'M
                 <h1>
                     Pauline Bodin-Hullin
                     <span class="slash-left">/</span><span class="slash-right">/</span>
-                    Architecte diplômée d'Etat
+                    Architecte diplômée d'Etat HMONP
                 </h1>
                 <h2>
                     <span>/</span>
