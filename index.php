@@ -17,7 +17,7 @@ $portfolioSize = round(filesize(__DIR__ . $portfolioPath) / 1024 / 1024, 2) . 'M
 <!DOCTYPE HTML>
 <html lang="fr-FR">
     <head>
-        <title>Pauline Bodin-Hullin - Architecte D.E.</title>
+        <title>Pauline Bodin-Hullin - Architecte D.E. HMONP</title>
         <meta charset="UTF-8" />
         
         <meta name="viewport" content="width=840" />
