@@ -17,7 +17,7 @@ $portfolioSize = round(filesize(__DIR__ . $portfolioPath) / 1024 / 1024, 2) . 'M
 <!DOCTYPE HTML>
 <html lang="fr-FR">
     <head>
-        <title>Pauline Bodin-Hullin - Architecte D.E. HMONP</title>
+        <title>Pauline Bodin-Hullin - Diplômée d'Etat en Architecture </title>
         <meta charset="UTF-8" />
         
         <meta name="viewport" content="width=840" />
@@ -51,7 +51,7 @@ $portfolioSize = round(filesize(__DIR__ . $portfolioPath) / 1024 / 1024, 2) . 'M
                 <h1>
                     Pauline Bodin-Hullin
                     <span class="slash-left">/</span><span class="slash-right">/</span>
-                    Architecte D.E HMONP
+                    Diplômée d'Etat en Architecture
                 </h1>
                 <h2>
                     <span>/</span>
@@ -60,8 +60,8 @@ $portfolioSize = round(filesize(__DIR__ . $portfolioPath) / 1024 / 1024, 2) . 'M
             </hgroup>
 
             <ul id="concepts">
-                <li><span>/</span> Conception architecturale</li>
-                <li><span>/</span> Conception urbaine, paysage et espaces publics</li>
+                <li><span>/</span> Références en conception architecturale</li>
+                <li><span>/</span> Références en conception urbaine, paysage et espaces publics</li>
             </ul>
 
             <div id="info">
