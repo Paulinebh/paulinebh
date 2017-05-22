@@ -61,17 +61,17 @@ $portfolioSize = round(filesize(__DIR__ . $portfolioPath) / 1024 / 1024, 2) . 'M
 
             <ul id="concepts">
                 <li><span>/</span> Références en conception architecturale</li>
-                <li><span>/</span> Références en conception urbaine, paysage et espaces publics</li>
+                <li><span>/</span> Références en conception urbaine </li>
             </ul>
 
             <div id="info">
-                <p id="open">&gt; <strong> ACTUELLEMENT EN RECHERCHE DE POSTE </strong></p>
+                <p id="open">&gt; <strong> ACTUELLEMENT EN RECHERCHE DE NOUVELLES OPPORTUNITÉS </strong></p>
 
                 <ul id="links">
                     <li class="contact"><a href="#contact">Me contacter</a></li>
                     <li class="cv"><a href="<?php echo $cvPath; ?>" target="_blank">CV <small>(pdf <?php echo $cvSize; ?>)</small></a></li>
                     <li class="portfolio">
-                        Portfolio
+                        Extrait du portfolio
                         <ul>
 <?php /* ?>
                             <li><a href="#">&gt; en ligne</a></li>
